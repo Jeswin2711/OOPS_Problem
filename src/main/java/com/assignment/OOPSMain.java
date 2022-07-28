@@ -1,4 +1,4 @@
-package com.assingment;
+package com.assignment;
 
 public class OOPSMain
 {
